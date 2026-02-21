@@ -75,3 +75,19 @@ h2 {
     background: #222;
     color: #fff;
 }
+.social-links {
+    margin-top: 10px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #222;
+    font-weight: bold;
+}
+
+.social-links a:hover {
+    color: #0077b5;
+}
+
